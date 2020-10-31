@@ -1,0 +1,106 @@
+
+/* bloco 1-chamada principal */
+.home-bloco-texto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    border-radius: 15px;
+}
+.principal-text-h2{
+    margin-top: 80px;
+}
+.logo-google{
+   width: 150px;
+  margin-right: 50px; 
+  border-radius: 5px;
+  margin-top: 20px;
+}
+.logo-apple{
+    width: 150px;
+   height: 43px;
+   margin-top: 20px;
+}
+.imagem-chamando-taxi{
+    max-width: 100%;
+    border-radius: 15px;
+}
+/* Bloco 2  */
+.bloco-2-titulo-texto{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.titulo-texto{
+    font-size: 30px; 
+    margin-top: 10px;
+}
+.entrando-taxi{
+    max-width: 100%;
+    border-radius: 15px;
+   
+}
+.lista-qualidade{
+   margin-top: 60px;
+    font-size: 20px;
+}
+/* Bloco 3 */
+.img-parceirias{
+    max-width: 100%;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+.parceirias-text{
+    margin-top: 100px;
+    /* text-align: center; */
+}
+.bloco-3-lista-parceiria{
+    font-size: 20px;
+}
+/* Bloco 4 */
+.img-empresa{
+    max-width: 100%;
+    border-radius: 15px;
+    margin-top: 100px; 
+}
+.bloco-4-h3{
+    margin-top: 100px;
+}
+.bloco-4-lista-empresa{
+    font-size: 20px;
+}
+/* Bloco 5 */
+.img-pagamento{
+    max-width: 100%;
+    border-radius: 15px;
+}
+.bloco-5-h2{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.bloco-5-lista-pagamento{
+    font-size: 20px;
+}
+/* bloco 6 */
+.bloco-6-span{
+    font-size: 18px;
+}
+.bloco-6-h2{
+    margin-top: 100px;
+}
+/* bloco 7 */
+.img-sustentabilidade{
+    max-width: 100%;
+    margin-top: 100px;
+}
+.bloco-7-ecologia{
+    margin-top: 100px;
+   
+} 
+/* bloco 8 */
+.bloco-8-rodape{
+    background: #54595F;;   
+}
+.bloco-8-texto{
+    color: white;
+    text-align: center;
+}
+

@@ -1,4 +1,12 @@
 
+/*menu*/
+.logo-toptaxi{
+    width: 50px;
+    height:40px;
+}
+#home{
+    margin-top: 60px;
+}
 /* bloco 1-chamada principal */
 .home-bloco-texto{
     display: flex;
@@ -7,7 +15,8 @@
     border-radius: 15px;
 }
 .principal-text-h2{
-    margin-top: 80px;
+    margin-top: 25px;
+    font-size: 30px;
 }
 .logo-google{
    width: 150px;
@@ -26,12 +35,14 @@
 }
 /* Bloco 2  */
 .bloco-2-titulo-texto{
-    margin-top: 100px;
-    margin-bottom: 50px;
+    margin-top: 190px;
+    margin-bottom: 20px; 
+    font-size: 30px;
 }
 .titulo-texto{
     font-size: 30px; 
-    margin-top: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 .entrando-taxi{
     max-width: 100%;
@@ -39,30 +50,48 @@
    
 }
 .lista-qualidade{
-   margin-top: 60px;
+   margin-top: 50px;
     font-size: 20px;
 }
 /* Bloco 3 */
 .img-parceirias{
     max-width: 100%;
-    margin-top: 100px;
-    margin-bottom: 30px;
+    margin-top: 15px;
+   
+}
+.bloco-3-titulo{
+    margin-top: 190px;
+    margin-bottom: 20px;
+    font-size: 30px;
 }
 .parceirias-text{
-    margin-top: 100px;
-    /* text-align: center; */
+    margin-top: 50px;
+    font-size: 20px;
+   
 }
 .bloco-3-lista-parceiria{
     font-size: 20px;
 }
 /* Bloco 4 */
+.bloco-4-titulo{
+    margin-top: 190px;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
 .img-empresa{
-    max-width: 100%;
+    max-width: 120%;
     border-radius: 15px;
-    margin-top: 100px; 
+    margin-top: 15px; 
+    
+}
+.bloco-4-img-empresa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .bloco-4-h3{
     margin-top: 100px;
+    font-size: 20px;
 }
 .bloco-4-lista-empresa{
     font-size: 20px;
@@ -71,36 +100,162 @@
 .img-pagamento{
     max-width: 100%;
     border-radius: 15px;
+    margin-top: 15px;
 }
-.bloco-5-h2{
-    margin-top: 100px;
-    margin-bottom: 50px;
+.bloco-5-titulo{
+    margin-top: 190px;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+.bloco-5-subtitulo{
+    margin-top: 50px;
+    font-size: 25px;
 }
 .bloco-5-lista-pagamento{
     font-size: 20px;
+    margin-top: 50px;
 }
 /* bloco 6 */
-.bloco-6-span{
-    font-size: 18px;
+.bloco-6-lista h4{
+padding-top: 10px;
+font-size: 20px;
 }
+.bloco-informativo-icone{ 
+   display: flex; 
+   background-color: #ffcc2a; 
+    height: 156px;
+    justify-content: center;
+    align-items: center; 
+    border-radius: 15px;   
+}
+
+.bloco-informativo-icone svg{
+    color:  #363435;
+    font-size: 70px;
+}
+
 .bloco-6-h2{
-    margin-top: 100px;
+    margin-top: 190px;
+    margin-bottom: 20px;
+    font-size: 30px;
 }
 /* bloco 7 */
 .img-sustentabilidade{
     max-width: 100%;
-    margin-top: 100px;
+    margin-top: 15px;
+}
+.ecologia-titulo{
+    margin-top: 190PX;
+    margin-bottom: 20PX;
+    font-size: 30px;
 }
 .bloco-7-ecologia{
     margin-top: 100px;
+    font-size: 20px;
    
 } 
 /* bloco 8 */
-.bloco-8-rodape{
-    background: #54595F;;   
+.bloco-8-titulo{
+    margin-top: 200px;
+    margin-bottom: 60px;
+    font-size: 30px;
 }
-.bloco-8-texto{
+.bloco-8-lista{
+    margin-top: 30px;
+    font-size: 20px;
+}
+.bloco-8-infor{
+    display: flex;    
+}
+.bloco-8-infor svg{
+    margin-right: 20px;
+}
+.img-encomendas{
+    max-width: 100%;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+}
+/*footer*/
+.bloco-9-rodape{
+    background: rgb(0 0 0 / 90%); 
+    
+}
+.bloco-9-texto{
     color: white;
     text-align: center;
+    font-size: 16px; 
+}
+/* whatsaap*/
+.imagem-whatsapp{
+   
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 33px; 
+}
+.link-whatsapp{
+    color: white;
+}
+.link-whatsapp:hover{
+ color: #25d366;
+
+}
+
+/*facebook*/
+
+.link-facebook{
+    color: white;
+}
+.imagem-facebook{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 33px;
+}
+.link-facebook:hover{
+    color: #3b5998;
+}
+/*twitter*/
+.link-twitter{
+    color: white;
+}
+.imagem-twitter{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 33px;
+}
+.link-twitter:hover{
+    color: #1da1f2;
+}
+/*Instagran*/
+
+.link-instagram{
+    color: white;
+}
+.imagem-instagram{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 33px;
+}
+.link-instagram:hover{
+    color: #405de6;
+}
+/*telegram*/
+.link-telegram{
+    color: white;
+}
+.imagem-telegram{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 33px;
+}
+.link-telegram:hover{
+    color: #0088cc;
+}
+.footer-baixar{
+    color: white;
+    font-size: 16px;
+}
+.logo-footer{
+    margin-bottom: 20px;
 }
 

@@ -4,8 +4,11 @@
     width: 50px;
     height:40px;
 }
+.menu-cel {
+   color:white;
+}
 #home{
-    margin-top: 60px;
+    margin-top: 120px;
 }
 /* bloco 1-chamada principal */
 .home-bloco-texto{
@@ -79,7 +82,7 @@
     font-size: 30px;
 }
 .img-empresa{
-    max-width: 120%;
+    max-width: 100%;
     border-radius: 15px;
     margin-top: 15px; 
     
@@ -90,7 +93,7 @@
     align-items: center;
 }
 .bloco-4-h3{
-    margin-top: 100px;
+    margin-top: 50px;
     font-size: 20px;
 }
 .bloco-4-lista-empresa{

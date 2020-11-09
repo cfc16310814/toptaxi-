@@ -8,5 +8,7 @@ h1,h2,h3,h4,p,span,a,button,input{
 }
 
 .navbar-custom{
-    background-color: rgb(126, 122, 122);
+    background-color:rgb(66 65 65 / 92%);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);
 }

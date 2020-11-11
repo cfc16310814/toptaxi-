@@ -81,6 +81,9 @@
     margin-bottom: 20px;
     font-size: 30px;
 }
+.bloco-4-sub-titulo{
+    font-size: 27px;
+}
 .img-empresa{
     max-width: 100%;
     border-radius: 15px;
@@ -160,11 +163,15 @@ font-size: 20px;
 /* bloco 8 */
 .bloco-8-titulo{
     margin-top: 200px;
-    margin-bottom: 60px;
-    font-size: 30px;
+    margin-bottom: 20px;
+    font-size: 35px;
+}
+.bloco-8-sub-titulo{
+    font-size: 25px;
+    margin-bottom: 40px;
 }
 .bloco-8-lista{
-    margin-top: 30px;
+    margin-top: 50px;
     font-size: 20px;
 }
 .bloco-8-infor{
@@ -176,7 +183,7 @@ font-size: 20px;
 .img-encomendas{
     max-width: 100%;
     margin-top: 15px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     border-radius: 15px;
 }
 /*footer*/

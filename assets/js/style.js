@@ -7,5 +7,8 @@ $(function(){
         $('html, body').animate({
             scrollTop: targetOffset - 100
         }, 500);
+
+        $('#navbarTogglerDemo02').toggleClass('show');
+
     });
 });

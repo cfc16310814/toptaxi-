@@ -102,6 +102,7 @@
 .bloco-4-lista-empresa{
     font-size: 20px;
 }
+
 /* Bloco 5 */
 .img-pagamento{
     max-width: 100%;
@@ -173,12 +174,15 @@ font-size: 20px;
 .bloco-8-lista{
     margin-top: 50px;
     font-size: 20px;
+    
 }
 .bloco-8-infor{
-    display: flex;    
+    display: flex; 
+   
 }
 .bloco-8-infor svg{
     margin-right: 20px;
+    
 }
 .img-encomendas{
     max-width: 100%;
@@ -268,4 +272,26 @@ font-size: 20px;
 .logo-footer{
     margin-bottom: 20px;
 }
-
+ .logo-sinditaxi{
+    height:60px;
+    display: flex;
+  
+   justify-content: center;
+    
+} 
+.apoio-logo{
+    margin-left: 10px;
+    color:white;
+}
+.contato-toptaxi{
+    color: white;
+    display: flex;
+   padding-top: 40px;
+   justify-content: center;
+}
+.dev{
+    color: white;
+    display: flex;
+   padding-top: 40px;
+   justify-content: center;
+}

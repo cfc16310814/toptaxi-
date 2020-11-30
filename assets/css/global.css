@@ -12,3 +12,127 @@ h1,h2,h3,h4,p,span,a,button,input{
     -webkit-backdrop-filter: saturate(180%) blur(20px);
     backdrop-filter: saturate(180%) blur(20px);
 }
+
+.logo-toptaxi{
+    width: 50px;
+    height:40px;
+}
+.menu-cel {
+   color:white;
+}
+.logo-google{
+    width: 150px;
+   margin-right: 50px; 
+   border-radius: 5px;
+   margin-top: 20px;
+ }
+ .logo-apple{
+     width: 150px;
+    height: 43px;
+    margin-top: 20px;
+ }
+/* footer */
+.bloco-9-rodape{
+    background: rgb(0 0 0 / 90%); 
+    
+}
+.bloco-9-texto{
+    color: white;
+    text-align: center;
+    font-size: 16px; 
+}
+/* whatsaap*/
+.imagem-whatsapp{
+   
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 33px; 
+}
+.link-whatsapp{
+    color: white;
+}
+.link-whatsapp:hover{
+ color: #25d366;
+
+}
+
+/*facebook*/
+
+.link-facebook{
+    color: white;
+}
+.imagem-facebook{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 33px;
+}
+.link-facebook:hover{
+    color: #3b5998;
+}
+/*twitter*/
+.link-twitter{
+    color: white;
+}
+.imagem-twitter{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 33px;
+}
+.link-twitter:hover{
+    color: #1da1f2;
+}
+/*Instagran*/
+
+.link-instagram{
+    color: white;
+}
+.imagem-instagram{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 33px;
+}
+.link-instagram:hover{
+    color: #405de6;
+}
+/*telegram*/
+.link-telegram{
+    color: white;
+}
+.imagem-telegram{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 33px;
+}
+.link-telegram:hover{
+    color: #0088cc;
+}
+.footer-baixar{
+    color: white;
+    font-size: 16px;
+}
+.logo-footer{
+    margin-bottom: 20px;
+}
+ .logo-sinditaxi{
+    height:60px;
+    display: flex;
+  
+   justify-content: center;
+    
+} 
+.apoio-logo{
+    margin-left: 10px;
+    color:white;
+}
+.contato-toptaxi{
+    color: white;
+    display: flex;
+   padding-top: 40px;
+   justify-content: center;
+}
+.dev{
+    color: white;
+    display: flex;
+   padding-top: 40px;
+   justify-content: center;
+}
